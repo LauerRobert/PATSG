@@ -5,7 +5,7 @@ Open questions:
 - What are `Make Variables`? -> https://bazel.build/reference/be/make-variables
 - What are the 3 phases of bazel?
 
-Continue here next time:
+Continue here next time: https://pace-docs.azurewebsites.net/pace/main/docs/developer/design_and_develop/software_development_with_bazel/bazel_cheatsheet.html#external-dependencies
 
 Useful links:
 - https://bazel.build/concepts
