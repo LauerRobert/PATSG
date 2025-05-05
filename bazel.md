@@ -6,8 +6,9 @@ Open questions:
 - What are `Make Variables`? -> https://bazel.build/reference/be/make-variables
 - What are the 3 phases of bazel?
 - How does the Starlark debugger work? Can we use it effectively in the ADA? (e.g. https://docs.stack.build/docs/vscode/debugger/)
+- How does select work? https://bazel.build/versions/7.1.0/docs/configurable-attributes -> Implement a dummy variant
 
-Continue here next time: [https://pace-tools/bazelbuild/configs/buildconfigs/x86_64_linux_gcc8_dbg.bazelrc](https://pace-docs.azurewebsites.net/pace/main/docs/developer/design_and_develop/software_development_with_bazel/bazel_cheatsheet.html#evaluation-model-and-execution)
+Continue here next time: https://pace-docs.azurewebsites.net/pace/main/docs/developer/design_and_develop/software_development_with_bazel/bazel_cheatsheet.html#remote-cache
 
 Useful links:
 - https://bazel.build/concepts
