@@ -8,7 +8,9 @@ Open questions:
 - How does the Starlark debugger work? Can we use it effectively in the ADA? (e.g. https://docs.stack.build/docs/vscode/debugger/)
 - How does select work? https://bazel.build/versions/7.1.0/docs/configurable-attributes -> Implement a dummy variant
 
-Continue here next time: https://pace-docs.azurewebsites.net/pace/main/docs/developer/design_and_develop/software_development_with_bazel/bazel_cheatsheet.html#remote-cache
+Continue here next time:
+    [Initially it can be confusing to interpret the Bazel build output correctly. Here we force Bazel to build a C++ program locally by supplying a unique --action_env.](https://pace-docs.azurewebsites.net/pace/main/docs/developer/design_and_develop/software_development_with_bazel/bazel_cheatsheet.html#build)
+    "Initially it can be confusing to interpret the Bazel build output correctly. Here we force Bazel to build a C++ program locally by supplying a unique --action_env."
 
 Useful links:
 - https://bazel.build/concepts
