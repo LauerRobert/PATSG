@@ -9,7 +9,7 @@ Open questions:
 - How does select work? https://bazel.build/versions/7.1.0/docs/configurable-attributes -> Implement a dummy variant
 
 Continue here next time:
-    [Cheat Sheet Appendix]([url](https://pace-docs.azurewebsites.net/pace/main/docs/developer/design_and_develop/software_development_with_bazel/bazel_cheatsheet.html#appendix))
+    [Cheat Sheet Appendix](https://pace-docs.azurewebsites.net/pace/main/docs/developer/design_and_develop/software_development_with_bazel/bazel_cheatsheet.html#appendix)
 
 Useful links:
 - https://bazel.build/concepts
