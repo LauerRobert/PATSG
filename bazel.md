@@ -9,11 +9,13 @@ Open questions:
 - How does select work? https://bazel.build/versions/7.1.0/docs/configurable-attributes -> Implement a dummy variant
 
 Continue here next time:
-    [Initially it can be confusing to interpret the Bazel build output correctly. Here we force Bazel to build a C++ program locally by supplying a unique --action_env.](https://pace-docs.azurewebsites.net/pace/main/docs/developer/design_and_develop/software_development_with_bazel/bazel_cheatsheet.html#build)
-    "Initially it can be confusing to interpret the Bazel build output correctly. Here we force Bazel to build a C++ program locally by supplying a unique --action_env."
+    [Cheat Sheet Appendix]([url](https://pace-docs.azurewebsites.net/pace/main/docs/developer/design_and_develop/software_development_with_bazel/bazel_cheatsheet.html#appendix))
 
 Useful links:
 - https://bazel.build/concepts
 - Bazel user guide - basics
   - Start with: https://bazel.build/build/style-guide
   - Continue with other topics from here: https://bazel.build/docs
+- Bazel query
+  - The Bazel Query Reference https://bazel.build/query/language
+  - Query Guide https://bazel.build/query/guide
