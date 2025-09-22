@@ -10,6 +10,7 @@ Open questions:
 
 Continue here next time:
     [Cheat Sheet Appendix](https://pace-docs.azurewebsites.net/pace/main/docs/developer/design_and_develop/software_development_with_bazel/bazel_cheatsheet.html#appendix)
+        -> https://bazel.build/reference/be/common-definitions#label-expansion continue with "deps"
 
 Useful links:
 - https://bazel.build/concepts
