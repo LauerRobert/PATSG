@@ -9,8 +9,7 @@ Open questions:
 - How does select work? https://bazel.build/versions/7.1.0/docs/configurable-attributes -> Implement a dummy variant
 
 Continue here next time:
-    [Cheat Sheet Appendix](https://pace-docs.azurewebsites.net/pace/main/docs/developer/design_and_develop/software_development_with_bazel/bazel_cheatsheet.html#appendix)
-        -> https://bazel.build/reference/be/common-definitions#label-expansion continue with "licenses"
+    [Cheat Sheet Appendix](https://bazel.build/reference/be/common-definitions#common-attributes) (last time: filegroup and transition rule for debug defines; "licenses", "srcs" attributes)
 
 Useful links:
 - https://bazel.build/concepts
