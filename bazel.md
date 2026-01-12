@@ -7,9 +7,10 @@ Open questions:
 - What are the 3 phases of bazel?
 - How does the Starlark debugger work? Can we use it effectively in the ADA? (e.g. https://docs.stack.build/docs/vscode/debugger/)
 - How does select work? https://bazel.build/versions/7.1.0/docs/configurable-attributes -> Implement a dummy variant
+- How do Toolchains work and what can they be used for? https://bazel.build/extending/toolchains
 
 Continue here next time:
-    [Cheat Sheet Appendix](https://bazel.build/reference/be/common-definitions#common-attributes) (last time: filegroup and transition rule for debug defines; "licenses", "srcs" attributes)
+    [Cheat Sheet Appendix](https://bazel.build/reference/be/common-definitions#common-attributes) ("restricted_to")
 
 Useful links:
 - https://bazel.build/concepts
