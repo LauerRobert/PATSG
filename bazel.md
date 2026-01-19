@@ -10,7 +10,7 @@ Open questions:
 - How do Toolchains work and what can they be used for? https://bazel.build/extending/toolchains
 
 Continue here next time:
-    [Cheat Sheet Appendix](https://bazel.build/reference/be/common-definitions#common-attributes) ("restricted_to")
+    Glob https://bazel.build/reference/be/functions#glob
 
 Useful links:
 - https://bazel.build/concepts
