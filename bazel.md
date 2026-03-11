@@ -1,5 +1,6 @@
 Open questions:
 - What are rules? What are aspects? What's the difference?
+- How does select work?
 - What's the purpose/advantage of bazel's client/server mechanism?
 - What are modules? (How does a module extend the workspace?)
 - How do we add a new module and how do you add a a new registry?
@@ -9,7 +10,7 @@ Open questions:
 - How do Toolchains work and what can they be used for? https://bazel.build/extending/toolchains
 
 Continue here next time:
-    https://bazel.build/reference/be/extra-actions
+    https://bazel.build/reference/be/general#filegroup
 
 Useful links:
 - https://bazel.build/concepts
