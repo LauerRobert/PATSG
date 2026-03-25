@@ -10,7 +10,9 @@ Open questions:
 - How do Toolchains work and what can they be used for? https://bazel.build/extending/toolchains
 
 Continue here next time:
-    https://bazel.build/reference/be/general#starlark_doc_extract
+    https://bazel.build/extending/platforms
+        then
+    https://bazel.build/reference/be/platforms-and-toolchains
 
 Useful links:
 - https://bazel.build/concepts
