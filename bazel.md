@@ -10,7 +10,7 @@ Open questions:
 - How do Toolchains work and what can they be used for? https://bazel.build/extending/toolchains
 
 Continue here next time:
-    https://bazel.build/extending/platforms
+    https://bazel.build/extending/platforms#when-targets-skipped
         then
     https://bazel.build/reference/be/platforms-and-toolchains
 
